@@ -8,7 +8,7 @@
 
 <br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"> **About Me**  
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"> **About Me**  
 
 
 🔹 Passionate about **cybersecurity & pentesting** 🔥  
