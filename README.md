@@ -10,9 +10,6 @@
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"> **About Me**  
 
-<picture> 
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250">
-</picture>
 
 🔹 Passionate about **cybersecurity & pentesting** 🔥  
 🔹 Enthusiast in **malware analysis & detection** 🦠  
