@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+🌍;Cybersecurity+Enthusiast;CTF+Player;Active+Learner/Researcher;Passionate+about+Pentesting+and+Security..💻">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+🌍;Cybersecurity+Enthusiast;CTF+Player;Active+Learner/Researcher;Passionate+about+Pentesting+and+Security💻">
   </a>
 </p>
 
@@ -96,6 +96,8 @@
 <br>
 
 -----
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <br>
 <br>
@@ -108,7 +110,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/siham-taheri-b99564190/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  [YourLinkedInUsername]-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  SihamTaheri-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -135,6 +137,6 @@
 
 <br>
 
-Credit: [Your Name]
+Credit:Siham Taheri
 
-Last Edited on: [Date]
+Last Edited on: 01/01/2025
